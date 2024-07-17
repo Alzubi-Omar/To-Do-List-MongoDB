@@ -20,7 +20,7 @@ This project is a web application built with Node.js and MongoDB, designed to ma
 
 # Clone the repository
 
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Alzubi-Omar/To-Do-List-MongoDB.git
 
 # Navigate to the project directory
 
